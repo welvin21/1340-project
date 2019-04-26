@@ -1,0 +1,133 @@
+01/01/2019 1 1 10000 January salary
+01/01/2019 2 1 50.5 lunch at KTown
+01/01/2019 2 4 6.6 MTR from HKU to KTown
+01/01/2019 2 1 14 McFlurry at McDonald
+01/01/2019 2 4 6.6 MTR from KTown to HKU
+01/01/2019 2 5 Furniture 112.5 Buy alarm clock from MiniSo
+01/01/2019 2 1 31.5 Dinner at QM
+02/01/2019 2 4 13 transport to work
+02/01/2019 2 1 42.5 lunch at work
+02/01/2019 2 1 38 starbucks americano
+02/01/2019 2 4 13 transport back to home
+02/01/2019 2 1 25 Dinner at QM
+03/01/2019 2 4 13 transport to work
+03/01/2019 2 1 42.5 lunch at work
+03/01/2019 2 1 38 starbucks americano
+03/01/2019 2 4 13 transport back to home
+03/01/2019 2 1 25 Dinner at QM
+04/01/2019 2 4 13 transport to work
+04/01/2019 2 1 42.5 lunch at work
+04/01/2019 2 1 38 starbucks americano
+04/01/2019 2 4 13 transport back to home
+04/01/2019 2 1 25 Dinner at QM
+05/01/2019 2 4 13 transport to work
+05/01/2019 2 1 50.7 lunch at work
+05/01/2019 2 1 38 starbucks americano
+05/01/2019 2 4 70.9 taxi to LKF
+05/01/2019 2 1 150 Food and beers at LKF
+05/01/2019 2 4 16 MTR back to home
+05/01/2019 2 4 13 transport to work
+06/01/2019 2 1 120 lunch at CWB
+06/01/2019 2 4 13 MTR to KTown
+06/01/2019 2 4 13 MTR to home
+06/01/2019 2 2 190 Buy a new jeans at H&M
+06/01/2019 2 1 30 Dinner at QM
+07/01/2019 2 1 50.5 lunch at KTown
+07/01/2019 2 4 6.6 MTR from HKU to KTown
+07/01/2019 2 1 14 McFlurry at McDonald
+07/01/2019 2 4 6.6 MTR from KTown to HKU
+07/01/2019 2 5 Furniture 112.5 Buy alarm clock from MiniSo
+07/01/2019 2 1 31.5 Dinner at QM
+08/01/2019 2 4 13 transport to work
+08/01/2019 2 1 42.5 lunch at work
+08/01/2019 2 1 38 starbucks americano
+08/01/2019 2 4 13 transport back to home
+08/01/2019 2 1 25 Dinner at QM
+09/01/2019 2 4 13 transport to work
+09/01/2019 2 1 42.5 lunch at work
+09/01/2019 2 1 38 starbucks americano
+09/01/2019 2 4 13 transport back to home
+09/01/2019 2 1 25 Dinner at QM
+10/01/2019 2 4 13 transport to work
+10/01/2019 2 1 42.5 lunch at work
+10/01/2019 2 1 38 starbucks americano
+10/01/2019 2 4 13 transport back to home
+10/01/2019 2 1 25 Dinner at QM
+11/01/2019 2 4 13 transport to work
+11/01/2019 2 1 50.7 lunch at work
+11/01/2019 2 1 38 starbucks americano
+11/01/2019 2 4 70.9 taxi to LKF
+11/01/2019 2 1 150 Food and beers at LKF
+11/01/2019 2 4 16 MTR back to home
+12/01/2019 2 4 13 transport to work
+12/01/2019 2 1 120 lunch at CWB
+12/01/2019 2 4 13 MTR to KTown
+12/01/2019 2 4 13 MTR to home
+12/01/2019 2 2 190 Buy a new jeans at H&M
+12/01/2019 2 1 30 Dinner at QM
+13/01/2019 2 1 50.5 lunch at KTown
+13/01/2019 2 4 6.6 MTR from HKU to KTown
+13/01/2019 2 1 14 McFlurry at McDonald
+13/01/2019 2 4 6.6 MTR from KTown to HKU
+13/01/2019 2 5 Furniture 112.5 Buy alarm clock from MiniSo
+13/01/2019 2 1 31.5 Dinner at QM
+14/01/2019 2 4 13 transport to work
+14/01/2019 2 1 42.5 lunch at work
+14/01/2019 2 1 38 starbucks americano
+14/01/2019 2 4 13 transport back to home
+14/01/2019 2 1 25 Dinner at QM
+15/01/2019 2 4 13 transport to work
+15/01/2019 2 1 42.5 lunch at work
+15/01/2019 2 1 38 starbucks americano
+15/01/2019 2 4 13 transport back to home
+15/01/2019 2 1 25 Dinner at QM
+16/01/2019 2 4 13 transport to work
+16/01/2019 2 1 42.5 lunch at work
+16/01/2019 2 1 38 starbucks americano
+16/01/2019 2 4 13 transport back to home
+16/01/2019 2 1 25 Dinner at QM
+17/01/2019 2 4 13 transport to work
+17/01/2019 2 1 50.7 lunch at work
+17/01/2019 2 1 38 starbucks americano
+17/01/2019 2 4 70.9 taxi to LKF
+17/01/2019 2 1 150 Food and beers at LKF
+17/01/2019 2 4 16 MTR back to home
+18/01/2019 2 4 13 transport to work
+18/01/2019 2 1 120 lunch at CWB
+18/01/2019 2 4 13 MTR to KTown
+18/01/2019 2 4 13 MTR to home
+18/01/2019 2 2 190 Buy a new jeans at H&M
+18/01/2019 2 1 30 Dinner at QM
+19/01/2019 2 1 50.5 lunch at KTown
+19/01/2019 2 4 6.6 MTR from HKU to KTown
+19/01/2019 2 1 14 McFlurry at McDonald
+19/01/2019 2 4 6.6 MTR from KTown to HKU
+19/01/2019 2 5 Furniture 112.5 Buy alarm clock from MiniSo
+19/01/2019 2 1 31.5 Dinner at QM
+20/01/2019 2 4 13 transport to work
+20/01/2019 2 1 42.5 lunch at work
+20/01/2019 2 1 38 starbucks americano
+20/01/2019 2 4 13 transport back to home
+20/01/2019 2 1 25 Dinner at QM
+21/01/2019 2 4 13 transport to work
+21/01/2019 2 1 42.5 lunch at work
+21/01/2019 2 1 38 starbucks americano
+21/01/2019 2 4 13 transport back to home
+21/01/2019 2 1 25 Dinner at QM
+22/01/2019 2 4 13 transport to work
+22/01/2019 2 1 42.5 lunch at work
+22/01/2019 2 1 38 starbucks americano
+22/01/2019 2 4 13 transport back to home
+22/01/2019 2 1 25 Dinner at QM
+23/01/2019 2 4 13 transport to work
+23/01/2019 2 1 50.7 lunch at work
+23/01/2019 2 1 38 starbucks americano
+23/01/2019 2 4 70.9 taxi to LKF
+23/01/2019 2 1 150 Food and beers at LKF
+23/01/2019 2 4 16 MTR back to home
+24/01/2019 2 4 13 transport to work
+24/01/2019 2 1 120 lunch at CWB
+24/01/2019 2 4 13 MTR to KTown
+24/01/2019 2 4 13 MTR to home
+24/01/2019 2 2 190 Buy a new jeans at H&M
+24/01/2019 2 1 30 Dinner at QM
