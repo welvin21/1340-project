@@ -1,9 +1,9 @@
 #include <iostream>
 #include <vector>
 #include "struct.h"
-#include "add\add.h"
-#include "settings\settings.h"
-#include "statistics\statistic.h"
+#include "add/add.h"
+#include "settings/settings.h"
+#include "statistics/statistic.h"
 #include "print.h"
 #include "sort.h"
 #include "display_options.h"
